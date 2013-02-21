@@ -41,7 +41,7 @@ Mojolicious::Plugin::BrowserDetect - HTTP::BrowserDetect integration for Mojolic
 
 =head1 VERSION
 
-version 0.002
+version 0.003
 
 =head1 SYNOPSIS
 
